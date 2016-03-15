@@ -21,6 +21,7 @@ public class Club {
 		member_objects.add(new Member(membershipNumber,surname,firstName,secondName));
 		membershipNumber ++;
 		return member_objects;
+		//turnsladhk;
 
 	}
 

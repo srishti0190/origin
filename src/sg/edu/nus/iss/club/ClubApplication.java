@@ -20,7 +20,7 @@ public class ClubApplication {
 		Scanner scanner = new Scanner(System.in);
 
 			club.addMember("Miglani","Srishti"," ");
-			//club.addMember("Verma","Sanskar","Deepak");
+			club.addMember("Verma","Sanskar","Deepak");
 			club.addMember("Verma","Sukriti"," ");
 			club.addMember("Mordhost","John","K");
 
